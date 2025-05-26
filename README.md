@@ -1,4 +1,4 @@
-# Taraftarium24 & Taraftarium TV - Canlı Maç İzle
+# Taraftarium24 & Taraftarium TV - Canlı maç izle
 
 **Taraftarium24** ve **Taraftarium TV**, sporseverler için özel olarak geliştirilmiş, HD kalitesinde **canlı futbol yayını** sunan dijital platformlardır. Süper Lig'den Premier Lig'e, UEFA Şampiyonlar Ligi'nden Bundesliga'ya kadar yüzlerce maçı **ücretsiz ve kesintisiz** izleme fırsatı sunar.
 
